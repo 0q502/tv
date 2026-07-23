@@ -8287,7 +8287,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 垃圾,#group#
 
-APTV垃圾,#genre#
+
+APTV,#genre#
 
 #EXTM3U url-tvg="http://210.16.166.24:32777/epg/M2YwYzEyN2RiYjZj4jzC_2zPlcWay64ABln5EZYHqBF1WmsgEYk=/e.xml"
 
